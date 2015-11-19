@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+**/.idea
+**/target
+**/build
+**/.mule
+**/logs
+target/**
+.idea
+.apt_generated
+.settings
+graylog-connector.iml
