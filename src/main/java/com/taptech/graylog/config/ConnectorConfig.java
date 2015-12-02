@@ -1,4 +1,4 @@
-package com.taptech.graylog.graylog.config;
+package com.taptech.graylog.config;
 
 import org.mule.api.annotations.components.Configuration;
 import org.mule.api.annotations.Configurable;

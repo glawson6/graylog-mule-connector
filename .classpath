@@ -16,6 +16,18 @@
 	<classpathentry kind="var" path="M2_REPO/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar"/>
 	<classpathentry kind="var" path="M2_REPO/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/guava/guava/18.0/guava-18.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/graylog2/gelfclient/1.0.0/gelfclient-1.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-all/4.0.21.Final/netty-all-4.0.21.Final.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.4.1.1/jackson-core-2.4.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-slf4j-impl/2.1/log4j-slf4j-impl-2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-api/2.1/log4j-api-2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-1.2-api/2.1/log4j-1.2-api-2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-core/2.1/log4j-core-2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mongodb/bson/3.0.4/bson-3.0.4.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/mule/mule-core/3.7.0/mule-core-3.7.0.jar" sourcepath="M2_REPO/org/mule/mule-core/3.7.0/mule-core-3.7.0-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/mule/extensions/mule-extensions-api/1.0.0-alpha/mule-extensions-api-1.0.0-alpha.jar"/>
 	<classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils/1.9.2/commons-beanutils-1.9.2.jar"/>
@@ -29,11 +41,6 @@
 	<classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-j2ee-connector_1.5_spec/1.1/geronimo-j2ee-connector_1.5_spec-1.1.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/lmax/disruptor/3.3.0/disruptor-3.3.0.jar"/>
-	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar"/>
-	<classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-api/2.1/log4j-api-2.1.jar"/>
-	<classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-core/2.1/log4j-core-2.1.jar"/>
-	<classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-slf4j-impl/2.1/log4j-slf4j-impl-2.1.jar"/>
-	<classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-1.2-api/2.1/log4j-1.2-api-2.1.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-jcl/2.1/log4j-jcl-2.1.jar"/>
 	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar"/>
@@ -46,12 +53,10 @@
 	<classpathentry kind="var" path="M2_REPO/org/mule/common/mule-common/3.7.0/mule-common-3.7.0.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/json/json/20140107/json-20140107.jar"/>
-	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/antlr/antlr-runtime/3.5/antlr-runtime-3.5.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.jar"/>
-	<classpathentry kind="var" path="M2_REPO/com/google/guava/guava/18.0/guava-18.0.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/reflections/reflections/0.9.9/reflections-0.9.9.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/mule/tools/devkit/mule-devkit-annotations/3.7.1/mule-devkit-annotations-3.7.1.jar" sourcepath="M2_REPO/org/mule/tools/devkit/mule-devkit-annotations/3.7.1/mule-devkit-annotations-3.7.1-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/mule/tools/devkit/mule-devkit-shade/3.7.1/mule-devkit-shade-3.7.1.jar"/>
@@ -214,7 +219,6 @@
 	<classpathentry kind="var" path="M2_REPO/org/mule/tools/devkit/connector-testing-framework-serializer-engine/0.9.4/connector-testing-framework-serializer-engine-0.9.4.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/mule/tools/devkit/connector-testing-framework-serializers/0.9.4/connector-testing-framework-serializers-0.9.4.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/intellij/annotations/12.0/annotations-12.0.jar"/>
-	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/apache/maven/shared/maven-invoker/2.2/maven-invoker-2.2.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar"/>
